@@ -1,0 +1,4 @@
+InstruçõesComandos:
+
+1.Para movimentar o personagem, aperte a para mexer para a esquerda e d para a direita.
+2.O botão z será utilizado como especial.

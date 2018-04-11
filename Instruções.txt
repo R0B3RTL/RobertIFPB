@@ -1,0 +1,5 @@
+Instruções:
+
+1.O jogo usará uma plataforma web para auxiliar o acesso.
+2.Será necessário apenas entrar ao link do jogo
+3.Após entar ao jogo, cumprir os seus objetivos.
